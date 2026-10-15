@@ -10,6 +10,8 @@
 
 ![用 MemGlow 查看 Wolfenstein 3D 的内存](docs/images/wolf3d-demo.gif)
 
+![用 MemGlow 查看 Heretic 的内存](docs/images/heretic-demo.webp)
+
 ## 使用
 
 1. 从 GitHub Releases 下载 Windows x64 ZIP 并解压，`MemGlow.exe` 和 `SDL2.dll` 要放在同一个文件夹。
@@ -41,4 +43,4 @@
 
 灵感来自 Christopher Domas 的演讲 [The Future of RE: Dynamic Binary Visualization](https://recon.cx/2013/schedule/events/20.html)。
 
-演示游戏为 [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) 和 Wolfenstein 3D（[DDWolf](https://github.com/brosseaualex/DDWolf)），发布包不包含游戏。
+演示游戏为 [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)、Wolfenstein 3D（[DDWolf](https://github.com/brosseaualex/DDWolf)）和 Heretic（[Chocolate Heretic](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Heretic)），发布包不包含游戏。
