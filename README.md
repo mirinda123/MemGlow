@@ -8,6 +8,8 @@ Pretty useless, but it looks cool and lets you live out your hacker fantasies.
 
 ![MemGlow visualizing Space Cadet Pinball's memory](docs/images/demo.gif)
 
+![MemGlow visualizing Wolfenstein 3D's memory](docs/images/wolf3d-demo.gif)
+
 ## Usage
 
 1. Download the Windows x64 ZIP from GitHub Releases and extract it. Keep `MemGlow.exe` and `SDL2.dll` in the same folder.
@@ -39,4 +41,4 @@ Use `--help` to see the other command-line options.
 
 Inspired by Christopher Domas's talk [The Future of RE: Dynamic Binary Visualization](https://recon.cx/2013/schedule/events/20.html).
 
-The demo uses [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball). The game is not included in the release package.
+The demos use [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) and Wolfenstein 3D ([DDWolf](https://github.com/brosseaualex/DDWolf)). The games are not included in the release package.
